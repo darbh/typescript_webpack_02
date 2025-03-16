@@ -1,5 +1,13 @@
-# typescript_webpack_02
+ 
 # Typescript Empty Project
+
+> Notes: ` On ubuntu 22.04, default nodejs dont support typescript,  Use nvm to install latest nodejs'
+
+> https://stackoverflow.com/questions/76421238/tsc-command-showing-syntaxerror-unexpected-token
+
+> https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating
+
+> https://www.typescriptlang.org/tsconfig/
 
 ## Creating Docker container 
 > docker run --name node01 -it -v /data:/data ubuntu:22.04 bash
